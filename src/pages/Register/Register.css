@@ -1,0 +1,18 @@
+.inputContainer {
+  background-color: #353232;
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+
+.register-input {
+  margin-left: 5px;
+  border: none;
+  background-color:transparent;
+  flex: 1;
+  color: #6a6363;
+  caret-color: #554f4f;
+  outline: none;
+  font-size: 20px;
+}

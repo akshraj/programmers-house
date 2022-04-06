@@ -1,0 +1,24 @@
+.homepage-card {
+  width: 500px;
+  max-width: 90%;
+  min-height: 300px;
+  background-color: #262323;
+  border-radius: 20px;
+  padding: 20px;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.homepage-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 10px;
+}
